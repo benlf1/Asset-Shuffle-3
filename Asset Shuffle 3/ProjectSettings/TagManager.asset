@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Invisible
+    uniqueID: 928909561
+    locked: 0
   - name: Background
     uniqueID: 3333947025
     locked: 0
@@ -46,4 +49,7 @@ TagManager:
     locked: 0
   - name: Objects
     uniqueID: 2065072815
+    locked: 0
+  - name: Player
+    uniqueID: 4200697411
     locked: 0
